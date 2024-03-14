@@ -1,0 +1,7 @@
+path: C:\Users\femin\Downloads\project counting\runs\detect\data
+train: images/train
+val: images/train
+
+# Classes
+names:
+  0 : cow
